@@ -68,7 +68,7 @@ Programación de Base de Datos con SQL  ·  Diseño de Base de Datos
 
 Programación para la Ciencia de Datos (R) 
 
-Power BI. 
+Power BI Total - Analista de datos avanzado.
 
 ##- 🌱 
 Calidad & QA 
