@@ -41,14 +41,9 @@ Redes Informáticas
 EDUCACIÓN 
 
 ----------------------------------------------------------------------- 
+TITULO UNIVERSIDAD - Ingeniería en Ciencias de la Computación UNICAH - Universidad Católica de Honduras 
 
-Ingeniería en Ciencias de la Computación UNICAH 
-
-Universidad Católica de Honduras 
-
-Perito Mercantil y Contador Público ICVC 
-
-Instituto Central Vicente Cáceres 
+TITULO - Perito Mercantil y Contador Público ICVC - Instituto Central Vicente Cáceres 
 
 
 ----------------------------------------------------------------------
