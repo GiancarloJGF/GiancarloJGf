@@ -8,54 +8,35 @@ Ingeniero en Sistemas con sólida experiencia en el ciclo completo de desarrollo
 ##COMPETENCIAS TÉCNICAS - 🔭
 
 Backend & Frontend 
-
 PHP / Scriptcase 
-
 C# / ASP.NET 
-
 HTML5 / CSS3 
-
 JavaScript 
-
 Java (Fundamentos) 
-
 MVC Architecture 
 
 Bases de Datos & BI 
-
+--------------------------------------
 SQL Server 
-
 PostgreSQL 
-
 MySQL / MariaDB 
-
 Oracle 
-
 Power BI 
-
 DAX 
-
 R (Data Science) 
 
- 
 
 ##Metodologías & Infraestructura 
-
+-------------------------------------
 Scrum / Kanban 
-
 UML / Diagramación 
-
 Testing de Software 
-
 ISO 9001:2015 
-
 Linux / Windows Server 
-
 Cloud / On-Premise 
-
 Redes Informáticas 
 
- ---------------------------------------------
+---------------------------------------------
 ##- 🌱 
  EXPERIENCIA LABORAL 
 
