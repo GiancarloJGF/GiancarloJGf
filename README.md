@@ -56,6 +56,7 @@ Cloud / On-Premise
 Redes Informáticas 
 
  ---------------------------------------------
+##- 🌱 
  EXPERIENCIA LABORAL 
 
  
@@ -76,7 +77,7 @@ Mantenimiento evolutivo: refactorización y actualización de sistemas legados p
 
 Evaluación de infraestructura de servidores y redes con dictamen de especificaciones técnicas de hardware para adquisición de equipos. 
 
- 
+ -----------------------------------------------------------------
 
 Auxiliar Contable / Analista de Datos Financieros	2014-2018 
 
@@ -87,14 +88,14 @@ Automatización de flujos de registro de transacciones financieras, reduciendo e
 Elaboración de informes financieros y conciliaciones bancarias para la toma de decisiones directivas mediante análisis de datos (Business Intelligence). 
 
  
-
+-------------------------------------------------------------------
 Asistente de Contador Aduanero	2012-2014 
 
 Administración Aduanera de Honduras 
 
 Gestión de trámites y documentación de despacho aduanero bajo regulaciones comerciales locales e internacionales. 
 
- 
+ --------------------------------------------------------------
 
 Practicante Profesional — Ingeniería de Sistemas	 2018 
 
@@ -106,9 +107,10 @@ Auditorías lógicas y físicas de la infraestructura de TI para detectar vulner
 
 Diseño de manuales técnicos de usuario y diagramas de arquitectura del sistema en estándar UML. 
 
+##- 🌱 
 EDUCACIÓN 
 
- 
+----------------------------------------------------------------------- 
 
 Ingeniería en Ciencias de la Computación UNICAH 
 
@@ -118,6 +120,9 @@ Perito Mercantil y Contador Público ICVC
 
 Instituto Central Vicente Cáceres 
 
+
+----------------------------------------------------------------------
+##- 🌱 
 CERTIFICACIONES Y FORMACIÓN CONTINUA 
 
  
@@ -140,7 +145,9 @@ Programación para la Ciencia de Datos (R)
 
 Power BI. 
 
+##- 🌱 
 Calidad & QA 
+---------------------------------------------------------------------------------------
 
 Diplomado en Gestión de la Calidad (UNICAH)  ·  Norma ISO 9001:2015 
 
